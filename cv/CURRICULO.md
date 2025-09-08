@@ -1,1 +1,1 @@
-![cv-ptbr](curriculo-pt.png)
+![cv-ptbr](CV-portugues.png)
